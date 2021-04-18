@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+技能:
+
+- ✅ Python
+- ✅ PHP
+- ✅ C
+- ✅ C++
+- ✅ Kali Linux
+- ✅ SQL注入
+- ✅ 代码审计
+- ✅ 逆向分析
+- ✅ PWN
+- ✅ 物联网安全
+- ⚡ 都不会
+
 <!--
 **i4mhmh/i4mhmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
