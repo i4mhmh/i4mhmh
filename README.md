@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-技能:
 
-- ✅ Python
-- ✅ PHP
+- 🔭 I’m currently looking for a job.
+- 🌱 I’m currently learning Python,Apache Log4j 2,Msf,cs
 - ✅ C
 - ✅ C++
 - ✅ Kali Linux
