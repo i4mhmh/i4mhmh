@@ -2,8 +2,12 @@
 
 
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning Python,Apache Log4j 2,Msf,cs
-- ✅ C
+- 🌱 I’m currently learning Python,Apache Log4j 2,Metaspliot,Cobalt Strike.
+- 📚 I’m currently Prepareing for the upcoming CISP Exam ,but I am always being delayed by COVID-19.
+
+
+- 💬 
+
 - ✅ C++
 - ✅ Kali Linux
 - ✅ SQL注入
