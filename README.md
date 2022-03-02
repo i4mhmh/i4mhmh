@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently preparing for the Postgraduate entrance examination restest.
+- 🔭 I’m currently preparing for the Graduate retrial.
 - 🌱 I’m currently learning Apache Log4j 2,Metaspliot,Cobalt Strike,ZoomEye.
 - 📚 I’m currently Prepareing for the upcoming CISP Exam ,but this exam always being delayed by COVID-19.
 - 🔨 拟态防御
