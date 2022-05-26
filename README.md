@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studying Cryptography.
-- 🌱 I’m currently learning Apache Log4j 2,Metaspliot,Cobalt Strike,ZoomEye.
-- 📚 I’m currently Prepareing for the upcoming CISP Exam ,but this exam always being delayed by COVID-19.
+- 🌱 I’m currently learning side-chinnel attack, and try to use this into Web Security area.
+- 📚 I’m currently trying to study Java and Go, in order to prepare for the future project in postgraduate life.
 
 <br><br><br>
 
