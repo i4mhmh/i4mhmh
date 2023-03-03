@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=i4mhmh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=i4mhmh)](https://github.com/mango-lzp/github-readme-stats)
 
 
 ### Hi there  🌅
