@@ -2,6 +2,6 @@
 
 
 ### Hi! There is i4mhmh 👋
-- 🏫 lying in `Guilin` University Of Electronic Technology , 
+- 🏫 lying in GUET 
 - ☁️ Python/Golang
 - 🏃 Basketball/NothingElse
