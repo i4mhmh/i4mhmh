@@ -4,4 +4,5 @@
 ### Hi! There is i4mhmh 👋
 - 🏫 lying in GUET 
 - ☁️ Python/Golang
+- ✋🏻 Eatting chicken/King of glory 
 - 🏃 Basketball/NothingElse
