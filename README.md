@@ -17,7 +17,9 @@
 
 <br/>  
 
-![](https://raw.githubusercontent.com/i4mhmh/i4mhmh/main/assets/github-contribution-grid-snake.svg)              
+![](https://raw.githubusercontent.com/i4mhmh/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+         
 
 
 <br/>
