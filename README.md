@@ -66,7 +66,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [-&gt;](https://i4mhmh.cn/archives/a09255bb.html)
+- [文献阅读笔记-The Best of Two Worlds: Deep Learning-assisted Template Attack](https://i4mhmh.cn/archives/a09255bb.html)
 - [文献阅读笔记-To Overfit, Or Not to Overfit: Improving the Performance of Deep Learning-based SCA](https://i4mhmh.cn/archives/f423d1e.html)
 - [文献阅读笔记-On the Performance of Convolutional Neural Networks for Side-channel Analysis](https://i4mhmh.cn/archives/b68bb5eb.html)
 - [AI侧信道攻击中Prediction转换的实现](https://i4mhmh.cn/archives/bfd12eb4.html)
