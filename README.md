@@ -1,10 +1,9 @@
-<img src="" align="left" style="width: 100%" />  
-  
 
 ### <div align="center">i4mhmh, A Master Student In Cyberspace Security 💤</div>  
   
+<br/>
 
-- 🔭 I’m currently working on side channel attack([writtings](https://www.i4mhmh.cn))  
+- 🔭 I’m currently learning side channel attack([writtings](https://www.i4mhmh.cn))  
   
 
 - 🌱 I’m currently learning ML & DL in SCA and Defense  
@@ -20,13 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
+<table>
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -45,11 +38,9 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
@@ -85,10 +76,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=i4mhmh&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
