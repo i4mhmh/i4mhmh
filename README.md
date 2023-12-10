@@ -3,7 +3,7 @@
   
 <br/>
 
-- 🔭 I’m currently learning side channel attack([writtings](https://www.i4mhmh.cn))  
+- 🔭 I’m currently learning side channel attack([essay](https://www.i4mhmh.cn))  
   
 
 - 🌱 I’m currently learning ML & DL in SCA and Defense  
@@ -59,7 +59,7 @@
 <br/>  
 
 
-## Github Stats  
+## Data & essay
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4mhmh&hide_border=true&layout=compact" align="left" />  
 
 
