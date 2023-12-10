@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning side channel attack([essay](https://www.i4mhmh.cn))  
   
 
-- 🌱 I’m currently learning ML & DL in SCA and cyber security
+- 🌱 I’m currently learning ML & DL used in Cyberspace Security
   
 
 - 🏀 Playing Basketball   
