@@ -17,6 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://i4mhmh.cn/atom.xml"
+          
       # snake
       - uses: Platane/snk@v3
         with:
@@ -35,5 +36,5 @@ jobs:
           #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
