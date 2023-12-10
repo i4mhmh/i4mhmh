@@ -2,7 +2,8 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/i4mhmh/count.svg) Visitor
 
-### Hi! There is i4mhmh 👋
+<h4> Hey there is i4mhmh! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+
 - 🏫 lying in GUET 
 - ☁️ Python/Golang
 - ✋🏻 Eatting chicken/King of glory 
