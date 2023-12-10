@@ -60,11 +60,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4mhmh&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4mhmh&hide_border=true&layout=compact" align="left" />  
 
 
-## Recent Blog Posts  
+
+### My Blog  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
