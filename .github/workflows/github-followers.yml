@@ -21,7 +21,7 @@ jobs:
         uses: JieDing/github-followers@main
         env:
           login: ${{ github.repository_owner }}
-          pat: ${{ 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 }}
+          pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Commit changes
         run: |
             git config --local user.email "action@github.com"
