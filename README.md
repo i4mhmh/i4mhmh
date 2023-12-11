@@ -17,9 +17,7 @@
 
 <br/>  
 
-<img src="https://github.com/i4mhmh/i4mhmh/blob/output/github-snake.gif"/> 
-
-
+![](https://raw.githubusercontent.com/i4mhmh/i4mhmh/main/assets/github-contribution-grid-snake.svg)
 <br/>
 
 ## My Skill Set  
