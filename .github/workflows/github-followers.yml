@@ -1,6 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: get followers
+name: github-followers
 
 on:
   push:
