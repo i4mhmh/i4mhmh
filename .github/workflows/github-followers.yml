@@ -1,24 +1,18 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: github-followers
-
 on:
-  push:
-    branches:
-      - main
+ # push:
+ #   branches: [ "main" ]
   schedule:
-    - cron: '0 20 * * *'
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+    - cron: '15 1 * * *'
 jobs:
-  github_followers_job:
+  hello_world_job:
     runs-on: ubuntu-latest
-    name: A job to display github followers in your profile
+    name: A job to test github-follower
     steps:
       - uses: actions/checkout@v3
 
-      - name: use github-follower-action to update README.md
-        id: github-follower
-        uses: JieDing/github-followers@main
+      - name: use github-follower
+        id: github-follower-action
+        uses: JieDing/github-followers-action@main
         env:
           login: ${{ github.repository_owner }}
           pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
