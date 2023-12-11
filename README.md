@@ -17,7 +17,7 @@
 
 <br/>  
 
-![](https://raw.githubusercontent.com/i4mhmh/i4mhmh/main/assets/github-contribution-grid-snake.svg)
+
 <br/>
 
 ## My Skill Set  
@@ -75,8 +75,9 @@
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-  
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
+<br/>    
 
 
 
