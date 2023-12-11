@@ -3,7 +3,7 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=i4mhmh)
-<a href="https://github.com/i4mhmh?tab=followers"> <img src="https://img.shields.io/github/followers/i4mhmh.svg?style=social&label=Follow&maxAge=2592000"/> </a>
+<a href="https://github.com/i4mhmh?tab=followers"> <img src="https://img.shields.io/github/followers/i4mhmh.svg?style=social&label=Followers&maxAge=2592000"/> </a>
 <br/>
 
 <p>
