@@ -17,8 +17,8 @@
 
 <br/>  
 
-       
-[](https://github.com/i4mhmh/i4mhmh/blob/output/github-snake.gif)
+<img src="https://github.com/i4mhmh/i4mhmh/blob/output/github-snake.gif"/> 
+
 
 <br/>
 
