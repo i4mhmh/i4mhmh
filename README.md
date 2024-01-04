@@ -24,7 +24,7 @@
 
 - ⚡ Python、Golang、Java and the best language PHP！  
   
-<center> 推送记录 </center>
+
 <br/>  
 
 <picture>
