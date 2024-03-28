@@ -83,11 +83,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [论文阅读笔记-Remove Some Noise: On Pre-processing of Side-channel Measurements with Autoencoders](https://i4mhmh.cn/archives/6f94536a.html)
 - [文献阅读笔记-Don’t Learn What You Already Know Scheme-Aware Modeling for Profiling Side-Channel Analysis against Masking](https://i4mhmh.cn/archives/82dfe1cf.html)
 - [从零开始的Kaggle之旅](https://i4mhmh.cn/archives/9d627a55.html)
 - [训练检查清单](https://i4mhmh.cn/archives/5b8d4694.html)
 - [高斯噪声](https://i4mhmh.cn/archives/e6c2944b.html)
-- [文献阅读笔记-Cross-Device Profiled Side-Channel Attack with Unsupervised Domain Adaptation](https://i4mhmh.cn/archives/94330a47.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
