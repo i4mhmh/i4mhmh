@@ -84,11 +84,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [文献阅读笔记-Pay Attention to Raw Traces: A Deep Learning Architecture for End-to-End Profiling Attacks Analysis](https://i4mhmh.cn/archives/73861951.html)
+- [文献阅读笔记-Breaking Free: Leakage Model-free Deep Learning-based Side-channel Analysis](https://i4mhmh.cn/archives/b232a139.html)
 - [侧信道攻击对抗措施总结与实现](https://i4mhmh.cn/archives/e6c2944b.html)
 - [文献阅读笔记-The Need for Speed: A Fast Guessing Entropy Calculation for Deep Learning-Based SCA](https://i4mhmh.cn/archives/363b922e.html)
 - [文献阅读笔记-Remove Some Noise: On Pre-processing of Side-channel Measurements with Autoencoders](https://i4mhmh.cn/archives/6f94536a.html)
-- [文献阅读笔记-Don’t Learn What You Already Know Scheme-Aware Modeling for Profiling Side-Channel Analysis against Masking](https://i4mhmh.cn/archives/82dfe1cf.html)
-- [从零开始的Kaggle之旅](https://i4mhmh.cn/archives/9d627a55.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
