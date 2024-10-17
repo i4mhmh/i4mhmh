@@ -84,7 +84,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [文献阅读笔记-AutoPOI: automated points of interest selection for side-channel analysis](https://i4mhmh.cn/archives/e366992f.html)
+- [文献阅读笔记-AutoPOI: automated points of interest selection for side-channel analysis](https://i4mhmh.cn/archives/e366993f.html)
 - [文献阅读笔记-Exploring Feature Selection Scenarios for Deep Learning-based Side-channel Analysis](https://i4mhmh.cn/archives/e366992f.html)
 - [第九届密码学竞赛-赛题三WP](https://i4mhmh.cn/archives/b67151df.html)
 - [换服务器啦！](https://i4mhmh.cn/archives/e8b8df3e.html)
