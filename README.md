@@ -84,11 +84,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [文献阅读笔记-AutoPOI: automated points of interest selection for side-channel analysis](https://i4mhmh.cn/archives/e366992f.html)
 - [文献阅读笔记-Exploring Feature Selection Scenarios for Deep Learning-based Side-channel Analysis](https://i4mhmh.cn/archives/e366992f.html)
 - [第九届密码学竞赛-赛题三WP](https://i4mhmh.cn/archives/b67151df.html)
 - [换服务器啦！](https://i4mhmh.cn/archives/e8b8df3e.html)
 - [文献阅读笔记-Peek into the Black-Box:Interpretable Neural Network using SAT Equations in Side-Channel Analysis](https://i4mhmh.cn/archives/14e98e24.html)
-- [文献阅读笔记-Pay Attention to Raw Traces: A Deep Learning Architecture for End-to-End Profiling Attacks Analysis](https://i4mhmh.cn/archives/73861951.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
