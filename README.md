@@ -89,11 +89,11 @@
 </table>
 <!--ACTION_END_FLAG:github-followers-->
 <!-- BLOG-POST-LIST:START -->
+- [文献阅读笔记-Mahalanobis distance similarity measure based distinguisher for template attack](https://i4mhmh.cn/archives/50d37125.html)
+- [文献阅读笔记-Best Information is Most Successful Mutual Information and Success Rate in Side-Channel Analysis](https://i4mhmh.cn/archives/7d6f7161.html)
 - [到底是侧信道攻击还是侧信道分析？](https://i4mhmh.cn/archives/300f5024.html)
 - [文献阅读笔记-Adaptive Chosen-Plaintext Deep Learning-based Side-Channel Analysis](https://i4mhmh.cn/archives/6b742fe.html)
 - [文献阅读笔记-AutoPOI: automated points of interest selection for side-channel analysis](https://i4mhmh.cn/archives/e366993f.html)
-- [文献阅读笔记-Exploring Feature Selection Scenarios for Deep Learning-based Side-channel Analysis](https://i4mhmh.cn/archives/e366992f.html)
-- [第九届密码学竞赛-赛题三WP](https://i4mhmh.cn/archives/b67151df.html)
 <!-- BLOG-POST-LIST:END -->
 <br/>    
 
