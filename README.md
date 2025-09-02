@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
-- 🔭 I’m currently learning side channel attack([blog](https://www.i4mhmh.cn))  
+- 🔭 I’m currently learning side channel analysis([blog](https://www.i4mhmh.cn))  
   
 
 - 🌱 I’m currently learning ML & DL used in Cyberspace Security
@@ -22,7 +22,7 @@
 - 🏀 Playing Basketball   
   
 
-- ⚡ Python、Golang、Java and the best language PHP！  
+- ⚡ Python、Golang、Java and the best language: PHP！  
   
 
 <br/>  
